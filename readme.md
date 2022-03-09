@@ -5,7 +5,9 @@
 5. Then you are done!
 
 Commands: 
-!bcf #  | for example !bcf 1 would quote the first confession of bcf
-!wcfshort #  | for example !wcfshort 1 would quote the first confession of westminster shorter catechism
-!cnext | means you will go to the next confession in the list
-!rquote | will respond with a random spurgeon quote
+| Command      | Description |
+| ----------- | ----------- |
+|!bcf #  | for example !bcf 1 would quote the first confession of bcf|
+|!wcfshort #  | for example !wcfshort 1 would quote the first confession of westminster shorter catechism|
+|!cnext | means you will go to the next confession in the list|
+|!rquote | will respond with a random spurgeon quote|
