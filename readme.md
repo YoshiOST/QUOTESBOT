@@ -1,10 +1,11 @@
+## Instructions
 1. Download the cbs file which is the bot file.
 2. Head to the site [Chatblocks](https://www.instafluff.tv/ChatBlocks/)
 3. Drag and drop the file from your computer onto the scripting area
 4. Enter the channel you want to attach the bot to (You probably need to be a mod or the streamer to be able to.)
 5. Then you are done!
 
-Commands: 
+## Commands
 | Command      | Description |
 | ----------- | ----------- |
 |!bcf #  | for example !bcf 1 would quote the first confession of bcf|
