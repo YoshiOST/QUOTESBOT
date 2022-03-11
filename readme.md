@@ -13,9 +13,11 @@ Commands:
 |!cnext | means you will go to the next confession in the list|
 |!rquote | will respond with a random spurgeon quote|
 
-Copyright info
-WSC - Public Domain
-Belgic Confession - Public Domain
-1689 London Baptist Confession - Public Domain
+## Copyright Info
+| Text | Source|
+| ----------- | ----------- |
+|WSC | Public Domain|
+|Belgic Confession | Public Domain|
+|1689 London Baptist Confession | Public Domain|
 
 
