@@ -14,7 +14,8 @@ Commands:
 |!rquote | will respond with a random spurgeon quote|
 
 Copyright info
-WSC
-R S Ward, Learning the Christian Faith : The Shorter Catechism for Today (Wantirna, 5th ed, 1998), cited in The Westminster Shorter Catechism in modern English with Scripture proofs and comments (online), 9 March 2022 <https://matt2819.com/wsc>.
-Belgic Confession
-Translation © 2011, Faith Alive Christian Resources, Christian Reformed Church in North America
+WSC - Public Domain
+Belgic Confession - Public Domain
+1689 London Baptist Confession - Public Domain
+
+
