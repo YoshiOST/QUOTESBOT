@@ -11,3 +11,6 @@ Commands:
 |!wcfshort #  | for example !wcfshort 1 would quote the first confession of westminster shorter catechism|
 |!cnext | means you will go to the next confession in the list|
 |!rquote | will respond with a random spurgeon quote|
+
+Copyright info
+R S Ward, Learning the Christian Faith : The Shorter Catechism for Today (Wantirna, 5th ed, 1998), cited in The Westminster Shorter Catechism in modern English with Scripture proofs and comments (online), 9 March 2022 <https://matt2819.com/wsc>.
