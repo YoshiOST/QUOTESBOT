@@ -1,3 +1,5 @@
+# Warning Chatblocks is not supported anymore.
+Sadly because of CORS permissions and other browser hardening and the developer not particularly updating it. It doesn't really work. However.. there's streamer.bot option I'm developing ;)
 ## Instructions
 1. Download the cbs file which is the bot file.
 2. Head to the site [Chatblocks](https://www.instafluff.tv/ChatBlocks/)
